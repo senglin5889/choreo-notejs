@@ -1,4 +1,3 @@
 FROM feixiang1699/menj:am64
 USER 10014
 ENV SERVER_PORT=3000
-RUN chmod 755 /app
